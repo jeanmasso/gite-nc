@@ -1,5 +1,10 @@
 # Gite NC
 
+## Récupérer le repositorie
+``` 
+git clone 
+``` 
+
 ## Installation de la base de donnée MySQL :
 Créer un nouvelle base de données nommée : ***gitenc*** dans MySQL.
 
