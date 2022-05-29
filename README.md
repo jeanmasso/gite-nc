@@ -1,6 +1,7 @@
 # Gite NC
 
-## Récupérer le repositorie
+## Récupération du repositorie
+Cloner le repositorie :
 ``` 
 git clone https://github.com/jeanmasso/gite-nc.git
 ``` 
