@@ -2,7 +2,7 @@
 
 ## Récupérer le repositorie
 ``` 
-git clone 
+git clone https://github.com/jeanmasso/gite-nc.git
 ``` 
 
 ## Installation de la base de donnée MySQL :
